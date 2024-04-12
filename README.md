@@ -1,6 +1,1 @@
-Just creating a random project cus I'm bored
-
-# Current SWE Job Openings
-
-| Company          | Role               | Link                           |
-|------------------|--------------------|--------------------------------|
+| Yet Another Company | Product | [Job Link](https://yetanothercompany.com/job) |
