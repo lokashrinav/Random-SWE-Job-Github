@@ -19,3 +19,8 @@
 - [Software at Example Company](https://example.com/job)
 - [Data at Another Company](https://anothercompany.com/job)
 - [Product at Yet Another Company](https://yetanothercompany.com/job)
+
+
+- [Software at Example Company](https://example.com/job)
+- [Data at Another Company](https://anothercompany.com/job)
+- [Product at Yet Another Company](https://yetanothercompany.com/job)
