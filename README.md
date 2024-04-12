@@ -11,13 +11,3 @@
 | Example Company | Software | [Software at Example Company](https://example.com/job) |
 | Another Company | Data | [Data at Another Company](https://anothercompany.com/job) |
 | Yet Another Company | Product | [Product at Yet Another Company](https://yetanothercompany.com/job) |
-
-
-| Example Company | Software | [Software at Example Company](https://example.com/job) |
-| Another Company | Data | [Data at Another Company](https://anothercompany.com/job) |
-| Yet Another Company | Product | [Product at Yet Another Company](https://yetanothercompany.com/job) |
-
-
-| Example Company | Software | [Software at Example Company](https://example.com/job) |
-| Another Company | Data | [Data at Another Company](https://anothercompany.com/job) |
-| Yet Another Company | Product | [Product at Yet Another Company](https://yetanothercompany.com/job) |
