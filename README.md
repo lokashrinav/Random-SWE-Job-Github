@@ -17,3 +17,8 @@
 | Airbnb | Staff Software Engineer, CI/CD | [Job Link](https://careers.airbnb.com/positions/5718315/) |
 | Airbnb | Staff Software Engineer, Booking & Pricing | [Job Link](https://careers.airbnb.com/positions/5011395/) |
 | Airbnb | Staff Mobile Software Engineer, Quality Engineering | [Job Link](https://careers.airbnb.com/positions/5609345/) |
+| Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
+| Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
+| Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
+| Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
+| Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
