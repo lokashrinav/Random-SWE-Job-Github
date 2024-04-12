@@ -1,4 +1,4 @@
-# Random SWE Job Github
+# Current SWE Job Openings
 
 | Company          | Role               | Link                           |
 |------------------|--------------------|--------------------------------|
