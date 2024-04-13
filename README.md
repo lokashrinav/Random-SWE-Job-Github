@@ -10,7 +10,7 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
 | Airbnb | Staff Software Engineer, Metrics Infrastructure | [Job Link](https://careers.airbnb.com/positions/5705340/) |
 | Airbnb | Staff Software Engineer,Network Infrastructure | [Job Link](https://careers.airbnb.com/positions/5702638/) |
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
@@ -21,3 +21,45 @@
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
 | Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
+| Lyft | Senior Software Engineer, Electrification  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7194230002?gh_jid=7194230002) |
+| Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7182787002?gh_jid=7182787002) |
+| Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7255413002?gh_jid=7255413002) |
+| Lyft | Senior Software Engineer, Fulfillment | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7088705002?gh_jid=7088705002) |
+| Lyft | Senior Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7326830002?gh_jid=7326830002) |
+| Lyft | Senior Software Engineer, Map Data | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7113676002?gh_jid=7113676002) |
+| Lyft | Senior Software Engineer, Routing | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7080257002?gh_jid=7080257002) |
+| Lyft | Senior Software Engineer, Security Foundations | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7221735002?gh_jid=7221735002) |
+| Lyft | Senior Software Engineer, Security Foundations | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7239819002?gh_jid=7239819002) |
+| Lyft | Software Engineer, Backend (Pay) | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7080255002?gh_jid=7080255002) |
+| Lyft | Software Engineer, Dispatch | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7099722002?gh_jid=7099722002) |
+| Lyft | Software Engineer, Dispatch | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7121875002?gh_jid=7121875002) |
+| Lyft | Software Engineer, ETA & Routing Team | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7114023002?gh_jid=7114023002) |
+| Lyft | Software Engineer, ETA Team | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7030038002?gh_jid=7030038002) |
+| Lyft | Software Engineer, Marketplace | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7114020002?gh_jid=7114020002) |
+| Lyft | Staff Software Engineer, Data Privacy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7029356002?gh_jid=7029356002) |
+| Lyft | Staff Software Engineer, Data Privacy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7046534002?gh_jid=7046534002) |
+| Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264326002?gh_jid=7264326002) |
+| Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7263711002?gh_jid=7263711002) |
+| Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264324002?gh_jid=7264324002) |
+| Lyft | Staff Software Engineer, Rider | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7307434002?gh_jid=7307434002) |
+| Lyft | Senior Software Engineer, Electrification  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7194230002?gh_jid=7194230002) |
+| Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7182787002?gh_jid=7182787002) |
+| Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7255413002?gh_jid=7255413002) |
+| Lyft | Senior Software Engineer, Fulfillment | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7088705002?gh_jid=7088705002) |
+| Lyft | Senior Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7326830002?gh_jid=7326830002) |
+| Lyft | Senior Software Engineer, Map Data | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7113676002?gh_jid=7113676002) |
+| Lyft | Senior Software Engineer, Routing | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7080257002?gh_jid=7080257002) |
+| Lyft | Senior Software Engineer, Security Foundations | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7221735002?gh_jid=7221735002) |
+| Lyft | Senior Software Engineer, Security Foundations | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7239819002?gh_jid=7239819002) |
+| Lyft | Software Engineer, Backend (Pay) | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7080255002?gh_jid=7080255002) |
+| Lyft | Software Engineer, Dispatch | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7099722002?gh_jid=7099722002) |
+| Lyft | Software Engineer, Dispatch | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7121875002?gh_jid=7121875002) |
+| Lyft | Software Engineer, ETA & Routing Team | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7114023002?gh_jid=7114023002) |
+| Lyft | Software Engineer, ETA Team | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7030038002?gh_jid=7030038002) |
+| Lyft | Software Engineer, Marketplace | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7114020002?gh_jid=7114020002) |
+| Lyft | Staff Software Engineer, Data Privacy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7029356002?gh_jid=7029356002) |
+| Lyft | Staff Software Engineer, Data Privacy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7046534002?gh_jid=7046534002) |
+| Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264326002?gh_jid=7264326002) |
+| Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7263711002?gh_jid=7263711002) |
+| Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264324002?gh_jid=7264324002) |
+| Lyft | Staff Software Engineer, Rider | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7307434002?gh_jid=7307434002) |
