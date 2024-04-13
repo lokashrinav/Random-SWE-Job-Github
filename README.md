@@ -15,19 +15,9 @@
 | Airbnb | Staff Software Engineer,Network Infrastructure | [Job Link](https://careers.airbnb.com/positions/5702638/) |
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
 | Airbnb | Staff Software Engineer, CI/CD | [Job Link](https://careers.airbnb.com/positions/5718315/) |
-| Airbnb | Staff Software Engineer, Booking & Pricing | [Job Link](https://careers.airbnb.com/positions/5011395/) |
 | Airbnb | Staff Mobile Software Engineer, Quality Engineering | [Job Link](https://careers.airbnb.com/positions/5609345/) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
 | Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
 | Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
-| Visa |  Sr. Director, Software Engineering | Risk and Identity Solutions  | [Job Link](https://corporate.visa.com/en/jobs/REF033799W) |
-| Visa |  Senior Software Engineer  | [Job Link](https://corporate.visa.com/en/jobs/REF68979J) |
-| Visa |  Senior Software Engineer - Mobile (iOS) Developer  | [Job Link](https://corporate.visa.com/en/jobs/REF036626W) |
-| Visa |  Software Engineer - Sr Consultant Level  | [Job Link](https://corporate.visa.com/en/jobs/REF036864W) |
-| Visa |  Sr. SW Engineer (multiple openings)  | [Job Link](https://corporate.visa.com/en/jobs/REF67290Y) |
-| Visa |  Staff SW Test Engineer  | [Job Link](https://corporate.visa.com/en/jobs/REF70419F) |
-| Visa |  Sr. SW Engineer  | [Job Link](https://corporate.visa.com/en/jobs/REF70332M) |
-| Visa |  Software Engineer - Lead Level  | [Job Link](https://corporate.visa.com/en/jobs/REF035198W) |
-| Visa |  Lead Software Engineer - Sr. Consultant level  | [Job Link](https://corporate.visa.com/en/jobs/REF034653W) |
