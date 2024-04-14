@@ -75,7 +75,7 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
 | Ramp | New Grad 2024 - Software Engineer - Backend  | [Job Link](https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb) |
 | Ramp | New Grad 2024 - Software Engineer - Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd) |
 | Ramp | Senior Software Engineer - Backend | [Job Link](https://jobs.ashbyhq.com/ramp/1e077eec-dcae-4be5-a446-b3dd089777c6) |
@@ -92,3 +92,7 @@
 | Ramp |  Staff Software Engineer - Cloud Security | [Job Link](https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245) |
 | Ramp | Staff Software Engineer - Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/da200390-5a7d-4d7e-9b9d-b7faba24cf27) |
 | Ramp | Staff Software Engineer - Web | [Job Link](https://jobs.ashbyhq.com/ramp/e09c4cf9-1b62-4243-9a71-d2412753eee5) |
+| Replit | AI Backend Engineer | [Job Link](https://jobs.ashbyhq.com/replit/4ad7589c-43af-492c-87ca-0aae57f47b48) |
+| Replit | Software Engineer, Platform - Distributed Systems | [Job Link](https://jobs.ashbyhq.com/replit/1a6a0ba2-628d-4771-9af6-84c8e14fba3f) |
+| Replit | Software Engineer, Platform - OS | [Job Link](https://jobs.ashbyhq.com/replit/ee176a1e-0fe5-497a-b886-d0c53f0badc6) |
+| Replit | Software Engineer, Workspace Infrastructure | [Job Link](https://jobs.ashbyhq.com/replit/940335a6-a315-4458-a94e-58b94cc13b16) |
