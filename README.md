@@ -10,12 +10,12 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
 | Airbnb | Staff Software Engineer, Metrics Infrastructure | [Job Link](https://careers.airbnb.com/positions/5705340/) |
 | Airbnb | Staff Software Engineer,Network Infrastructure | [Job Link](https://careers.airbnb.com/positions/5702638/) |
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
-| Airbnb | Staff Software Engineer, CI/CD | [Job Link](https://careers.airbnb.com/positions/5718315/) |
 | Airbnb | Staff Software Engineer, Booking & Pricing | [Job Link](https://careers.airbnb.com/positions/5011395/) |
+| Airbnb | Staff Mobile Software Engineer, Quality Engineering | [Job Link](https://careers.airbnb.com/positions/5609345/) |
 | Cohere | Data Annotator - Full stack/Backend Developer (Contractor) | [Job Link](https://jobs.lever.co/cohere/0e9c5427-94ab-41a8-8dfb-21d61a86ba9e) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
 | Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
@@ -69,7 +69,6 @@
 | Quora | Android Engineer - Poe (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/4b591fa4-2328-4a13-b235-50a33b9f159b) |
 | Quora | Software Engineer - Ads (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/2dea8b1e-4898-481f-a7c3-0ec3befee426) |
 | Quora | Software Engineer - Full Stack, Poe Core Product (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/4706a1ce-6869-4060-bc72-43bd0d5c3e24) |
-| Quora | Software Engineer - Full Stack, Quora (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/23670d9f-9cb7-4e07-9c10-7efbe5ae68d2) |
 | Quora | Software Engineer - Machine Learning Platform (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/fa100083-d7dd-424b-999c-a02602aafdcb) |
 | Dropbox | Infrastructure Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4798707) |
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
