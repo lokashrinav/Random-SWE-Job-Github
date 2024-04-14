@@ -15,7 +15,7 @@
 | Airbnb | Staff Software Engineer,Network Infrastructure | [Job Link](https://careers.airbnb.com/positions/5702638/) |
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
 | Airbnb | Staff Software Engineer, CI/CD | [Job Link](https://careers.airbnb.com/positions/5718315/) |
-| Airbnb | Staff Mobile Software Engineer, Quality Engineering | [Job Link](https://careers.airbnb.com/positions/5609345/) |
+| Airbnb | Staff Software Engineer, Booking & Pricing | [Job Link](https://careers.airbnb.com/positions/5011395/) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
 | Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
@@ -63,3 +63,7 @@
 | Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7263711002?gh_jid=7263711002) |
 | Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264324002?gh_jid=7264324002) |
 | Lyft | Staff Software Engineer, Rider | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7307434002?gh_jid=7307434002) |
+| Quora | Software Engineer - Ads (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/2dea8b1e-4898-481f-a7c3-0ec3befee426) |
+| Quora | Software Engineer - Full Stack, Poe Core Product (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/4706a1ce-6869-4060-bc72-43bd0d5c3e24) |
+| Quora | Software Engineer - Full Stack, Quora (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/23670d9f-9cb7-4e07-9c10-7efbe5ae68d2) |
+| Quora | Software Engineer - Machine Learning Platform (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/fa100083-d7dd-424b-999c-a02602aafdcb) |
