@@ -10,7 +10,7 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
 | Airbnb | Staff Software Engineer, Metrics Infrastructure | [Job Link](https://careers.airbnb.com/positions/5705340/) |
 | Airbnb | Staff Software Engineer,Network Infrastructure | [Job Link](https://careers.airbnb.com/positions/5702638/) |
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
@@ -129,3 +129,7 @@
 | Zello | Lead Full Stack Engineer | [Job Link](/careers/job?jid=92894c78-f432-434b-8a81-61962693e1e7) |
 | Zello | Staff Backend Engineer (Go) | [Job Link](/careers/job?jid=6eab3abc-34db-4eb0-8394-d43ac3413056) |
 | Zello | Staff Backend Engineer - Go (Remote) | [Job Link](/careers/job?jid=5250f33e-c58a-4f46-931a-f876fe7fc10c) |
+| Khan Academy | Fullstack Engineer II, Product | [Job Link](https://boards.greenhouse.io/khanacademy/jobs/5668695) |
+| Khan Academy | Sr. Fullstack Engineer I, AI Products  | [Job Link](https://boards.greenhouse.io/khanacademy/jobs/5747751) |
+| Khan Academy | Sr. Fullstack Engineer II, Product | [Job Link](https://boards.greenhouse.io/khanacademy/jobs/5779809) |
+| Khan Academy | Sr. Fullstack Engineer I, Product | [Job Link](https://boards.greenhouse.io/khanacademy/jobs/5668677) |
