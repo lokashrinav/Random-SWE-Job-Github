@@ -75,4 +75,20 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
+| Ramp | New Grad 2024 | Software Engineer | Backend  | [Job Link](https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb) |
+| Ramp | New Grad 2024 | Software Engineer | Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd) |
+| Ramp | Senior Software Engineer | Backend | [Job Link](https://jobs.ashbyhq.com/ramp/1e077eec-dcae-4be5-a446-b3dd089777c6) |
+| Ramp | Senior Software Engineer | Forward Deployed  | [Job Link](https://jobs.ashbyhq.com/ramp/17ad9012-2545-4403-8e81-0775075a4fa3) |
+| Ramp | Senior Software Engineer | Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/4f9dd90d-f32e-46d5-b0c0-c69272b2f8d8) |
+| Ramp | Senior Software Engineer | Growth | [Job Link](https://jobs.ashbyhq.com/ramp/d94343ff-7510-4b19-8912-b9cf6ade6ebf) |
+| Ramp | Software Engineer | Android | [Job Link](https://jobs.ashbyhq.com/ramp/68504a66-66a2-4f89-a27d-7dce18e534fe) |
+| Ramp | Software Engineer | Backend  | [Job Link](https://jobs.ashbyhq.com/ramp/a7b5b128-c024-433a-b5d7-4e7b7ed7a49d) |
+| Ramp | Software Engineer | Forward Deployed | [Job Link](https://jobs.ashbyhq.com/ramp/49af05e6-c962-4a3c-867b-57a8ee5bbd53) |
+| Ramp | Software Engineer | Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce) |
+| Ramp | Software Engineer Internship | Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/bbac1615-acf4-4d27-9100-47079ab35be5) |
+| Ramp | Software Engineer | iOS | [Job Link](https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f) |
+| Ramp | Staff Software Engineer | Backend | [Job Link](https://jobs.ashbyhq.com/ramp/6a5108f4-8605-4a67-9446-ea05f197694c) |
+| Ramp |  Staff Software Engineer | Cloud Security | [Job Link](https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245) |
+| Ramp | Staff Software Engineer | Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/da200390-5a7d-4d7e-9b9d-b7faba24cf27) |
+| Ramp | Staff Software Engineer | Web | [Job Link](https://jobs.ashbyhq.com/ramp/e09c4cf9-1b62-4243-9a71-d2412753eee5) |
