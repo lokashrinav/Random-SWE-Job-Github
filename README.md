@@ -126,3 +126,6 @@
 | Splunk | Principal Engineer-Backend Mission Control - 29178 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-engineerbackend-mission-control-29178.html) |
 | Splunk | Principal Software Performance Engineer (Remote) - 28391 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-software-performance-engineer-28391.html) |
 | Splunk | Engineering Manager, Software Development, Identity Solutions - 29455 | [Job Link](https://www.splunk.com//en_us/careers/jobs/engineering-manager-software-development-29455.html) |
+| Zello | Lead Full Stack Engineer | [Job Link](/careers/job?jid=92894c78-f432-434b-8a81-61962693e1e7) |
+| Zello | Staff Backend Engineer (Go) | [Job Link](/careers/job?jid=6eab3abc-34db-4eb0-8394-d43ac3413056) |
+| Zello | Staff Backend Engineer - Go (Remote) | [Job Link](/careers/job?jid=5250f33e-c58a-4f46-931a-f876fe7fc10c) |
