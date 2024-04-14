@@ -10,11 +10,11 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
 | Airbnb | Staff Software Engineer, Metrics Infrastructure | [Job Link](https://careers.airbnb.com/positions/5705340/) |
 | Airbnb | Staff Software Engineer,Network Infrastructure | [Job Link](https://careers.airbnb.com/positions/5702638/) |
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
-| Airbnb | Staff Software Engineer, Booking & Pricing | [Job Link](https://careers.airbnb.com/positions/5011395/) |
+| Airbnb | Staff Software Engineer, CI/CD | [Job Link](https://careers.airbnb.com/positions/5718315/) |
 | Airbnb | Staff Mobile Software Engineer, Quality Engineering | [Job Link](https://careers.airbnb.com/positions/5609345/) |
 | Cohere | Data Annotator - Full stack/Backend Developer (Contractor) | [Job Link](https://jobs.lever.co/cohere/0e9c5427-94ab-41a8-8dfb-21d61a86ba9e) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
@@ -74,7 +74,7 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
 | Ramp | New Grad 2024 - Software Engineer - Backend  | [Job Link](https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb) |
 | Ramp | New Grad 2024 - Software Engineer - Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd) |
 | Ramp | Senior Software Engineer - Backend | [Job Link](https://jobs.ashbyhq.com/ramp/1e077eec-dcae-4be5-a446-b3dd089777c6) |
@@ -95,3 +95,10 @@
 | Replit | Software Engineer, Platform - Distributed Systems | [Job Link](https://jobs.ashbyhq.com/replit/1a6a0ba2-628d-4771-9af6-84c8e14fba3f) |
 | Replit | Software Engineer, Platform - OS | [Job Link](https://jobs.ashbyhq.com/replit/ee176a1e-0fe5-497a-b886-d0c53f0badc6) |
 | Replit | Software Engineer, Workspace Infrastructure | [Job Link](https://jobs.ashbyhq.com/replit/940335a6-a315-4458-a94e-58b94cc13b16) |
+| Duolingo | Senior Android Software Engineer | [Job Link](https://boards.greenhouse.io/duolingo/jobs/6919809002) |
+| Duolingo | Senior Android Software Engineer | [Job Link](https://boards.greenhouse.io/duolingo/jobs/7301590002) |
+| Duolingo | Senior iOS Software Engineer  | [Job Link](https://boards.greenhouse.io/duolingo/jobs/6990215002) |
+| Duolingo | Senior iOS Software Engineer  | [Job Link](https://boards.greenhouse.io/duolingo/jobs/6876635002) |
+| Duolingo | Senior iOS Software Engineer  | [Job Link](https://boards.greenhouse.io/duolingo/jobs/6876719002) |
+| Duolingo | Senior Software Engineer, Backend | [Job Link](https://boards.greenhouse.io/duolingo/jobs/6988375002) |
+| Duolingo | Senior Software Engineer, Backend | [Job Link](https://boards.greenhouse.io/duolingo/jobs/7302231002) |
