@@ -16,11 +16,13 @@
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
 | Airbnb | Staff Software Engineer, CI/CD | [Job Link](https://careers.airbnb.com/positions/5718315/) |
 | Airbnb | Staff Software Engineer, Booking & Pricing | [Job Link](https://careers.airbnb.com/positions/5011395/) |
+| Cohere | Data Annotator - Full stack/Backend Developer (Contractor) | [Job Link](https://jobs.lever.co/cohere/0e9c5427-94ab-41a8-8dfb-21d61a86ba9e) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
 | Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
 | Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
+| Lyft | Android Engineer, Rider Travel Team | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7274966002?gh_jid=7274966002) |
 | Lyft | Senior Software Engineer, Electrification  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7194230002?gh_jid=7194230002) |
 | Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7182787002?gh_jid=7182787002) |
 | Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7255413002?gh_jid=7255413002) |
@@ -42,6 +44,7 @@
 | Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7263711002?gh_jid=7263711002) |
 | Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264324002?gh_jid=7264324002) |
 | Lyft | Staff Software Engineer, Rider | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7307434002?gh_jid=7307434002) |
+| Lyft | Android Engineer, Rider Travel Team | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7274966002?gh_jid=7274966002) |
 | Lyft | Senior Software Engineer, Electrification  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7194230002?gh_jid=7194230002) |
 | Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7182787002?gh_jid=7182787002) |
 | Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7255413002?gh_jid=7255413002) |
@@ -63,6 +66,7 @@
 | Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7263711002?gh_jid=7263711002) |
 | Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264324002?gh_jid=7264324002) |
 | Lyft | Staff Software Engineer, Rider | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7307434002?gh_jid=7307434002) |
+| Quora | Android Engineer - Poe (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/4b591fa4-2328-4a13-b235-50a33b9f159b) |
 | Quora | Software Engineer - Ads (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/2dea8b1e-4898-481f-a7c3-0ec3befee426) |
 | Quora | Software Engineer - Full Stack, Poe Core Product (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/4706a1ce-6869-4060-bc72-43bd0d5c3e24) |
 | Quora | Software Engineer - Full Stack, Quora (Remote) | [Job Link](https://jobs.ashbyhq.com/quora/23670d9f-9cb7-4e07-9c10-7efbe5ae68d2) |
