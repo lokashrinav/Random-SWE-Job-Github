@@ -16,7 +16,6 @@
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
 | Airbnb | Staff Software Engineer, CI/CD | [Job Link](https://careers.airbnb.com/positions/5718315/) |
 | Airbnb | Staff Software Engineer, Booking & Pricing | [Job Link](https://careers.airbnb.com/positions/5011395/) |
-| Airbnb | Staff Mobile Software Engineer, Quality Engineering | [Job Link](https://careers.airbnb.com/positions/5609345/) |
 | Cohere | Data Annotator - Full stack/Backend Developer (Contractor) | [Job Link](https://jobs.lever.co/cohere/0e9c5427-94ab-41a8-8dfb-21d61a86ba9e) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
 | Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
@@ -75,7 +74,7 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
 | Ramp | New Grad 2024 - Software Engineer - Backend  | [Job Link](https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb) |
 | Ramp | New Grad 2024 - Software Engineer - Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd) |
 | Ramp | Senior Software Engineer - Backend | [Job Link](https://jobs.ashbyhq.com/ramp/1e077eec-dcae-4be5-a446-b3dd089777c6) |
@@ -103,3 +102,27 @@
 | Duolingo | Senior iOS Software Engineer  | [Job Link](https://boards.greenhouse.io/duolingo/jobs/6876719002) |
 | Duolingo | Senior Software Engineer, Backend | [Job Link](https://boards.greenhouse.io/duolingo/jobs/6988375002) |
 | Duolingo | Senior Software Engineer, Backend | [Job Link](https://boards.greenhouse.io/duolingo/jobs/7302231002) |
+| Splunk | Software Engineer - 29388 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-29388.html) |
+| Splunk | Full Stack Principal Software Engineer - 29205 | [Job Link](https://www.splunk.com//en_us/careers/jobs/full-stack-principal-software-29205.html) |
+| Splunk | Principal Software Engineer, Front-End, APM Observability - 29287 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-software-engineer-frontend-29287.html) |
+| Splunk | Sr Software Engineer, Front-end Observability (US Remote Available) - 29529 | [Job Link](https://www.splunk.com//en_us/careers/jobs/sr-software-engineer-frontend-29529.html) |
+| Splunk | Software Engineer (L7 Traffic/Networking) (US Remote Available) - 29375 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-l7-trafficnetworking-29375.html) |
+| Splunk | Sr Principal Software Engineer - Splunk SOAR (US Remote Available) - 29554 | [Job Link](https://www.splunk.com//en_us/careers/jobs/sr-principal-software-engineer-29554.html) |
+| Splunk | Software Engineer, Platform Security Team - 29257 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-platform-security-29257.html) |
+| Splunk | Sr. Principal Software Engineer - Enterprise Security (US Remote Available) - 29647 | [Job Link](https://www.splunk.com//en_us/careers/jobs/sr-principal-software-engineer-29647.html) |
+| Splunk | Sr Software Engineer - Data Platform (US Remote Available) - 29509 | [Job Link](https://www.splunk.com//en_us/careers/jobs/sr-software-engineer-data-29509.html) |
+| Splunk | Software Engineer - Early in Career (Frontend) - 29741 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-early-in-29741.html) |
+| Splunk | Software Engineer - Early in Career (Backend/Full-stack) - 29740 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-early-in-29740.html) |
+| Splunk | Senior Software Development Engineer - 29652 | [Job Link](https://www.splunk.com//en_us/careers/jobs/senior-software-development-engineer-29652.html) |
+| Splunk | Principal Software Engineer-Mission Control - 29744 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-software-engineermission-control-29744.html) |
+| Splunk | Sr. Software Engineer, Backend - Threat Intelligence Management - 29663 | [Job Link](https://www.splunk.com//en_us/careers/jobs/sr-software-engineer-backend-29663.html) |
+| Splunk | Software Engineer - Traffic & Networking (Remote) - 29634 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-traffic-networking-29634.html) |
+| Splunk | Senior Principal Software Engineer - SDLC Evolution - 29262 | [Job Link](https://www.splunk.com//en_us/careers/jobs/senior-principal-software-engineer-29262.html) |
+| Splunk | Software Engineer, Frontend, Cloud License Reporting - 29671 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-frontend-cloud-29671.html) |
+| Splunk | Senior Software Engineer, Distributed Systems, Splunk Observability - 29617 | [Job Link](https://www.splunk.com//en_us/careers/jobs/senior-software-engineer-distributed-29617.html) |
+| Splunk | Principal Accessibility Software Engineer - 29504 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-accessibility-software-engineer-29504.html) |
+| Splunk | Senior Software Engineer, Strategic Initiatives (US REMOTE) - 29582 | [Job Link](https://www.splunk.com//en_us/careers/jobs/senior-software-engineer-strategic-29582.html) |
+| Splunk | Principal Software Engineer, Strategic Initiatives (US REMOTE) - 29584 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-software-engineer-strategic-29584.html) |
+| Splunk | Principal Engineer-Backend Mission Control - 29178 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-engineerbackend-mission-control-29178.html) |
+| Splunk | Principal Software Performance Engineer (Remote) - 28391 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-software-performance-engineer-28391.html) |
+| Splunk | Engineering Manager, Software Development, Identity Solutions - 29455 | [Job Link](https://www.splunk.com//en_us/careers/jobs/engineering-manager-software-development-29455.html) |
