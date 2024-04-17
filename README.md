@@ -1,4 +1,4 @@
-## Current Job Openings
+# Current Job Openings
 
 | Company | Role | Link |
 | ------- | ---- | ---- |
