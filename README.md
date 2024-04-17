@@ -2,24 +2,20 @@
 
 | Company | Role | Link |
 | ------- | ---- | ---- |
-| Netflix | Technical Program Manager, Studio Production Engineering (L6) | [Job Link](https://jobs.netflix.com/jobs/319038018) |
-| Netflix | Manager, Ads FS&A - Inventory Management (UCAN) | [Job Link](https://jobs.netflix.com/jobs/323070320) |
-| Netflix | Player Support Lead, External Games- Games Operations | [Job Link](https://jobs.netflix.com/jobs/318084905) |
-| Netflix | Lead Engineer, Game Studio: Transmedia Pipeline R&D | [Job Link](https://jobs.netflix.com/jobs/318097807) |
-| Netflix | Director, Product Management & Live Service - Internal Games | [Job Link](https://jobs.netflix.com/jobs/317926817) |
-| Netflix | Support Specialist, Content Hub Media Production Suite | [Job Link](https://jobs.netflix.com/jobs/317746604) |
-| Netflix | Associate, Finance, Strategy & Analysis, Partnerships | [Job Link](https://jobs.netflix.com/jobs/319003116) |
-| Netflix | Contracts Manager, Product & Tech Contract Management | [Job Link](https://jobs.netflix.com/jobs/317703374) |
-| Netflix | Senior Motion Designer | [Job Link](https://jobs.netflix.com/jobs/320539384) |
-| Netflix | Product Manager - Partner Device Tools and Services | [Job Link](https://jobs.netflix.com/jobs/317530560) |
+| Netflix | Administrative Assistant, Content and Business Products | [Job Link](https://jobs.netflix.com/jobs/325115084) |
+| Netflix | Senior Engineering Manager, Observability | [Job Link](https://jobs.netflix.com/jobs/324154170) |
+| Netflix | Executive Assistant, Corporate Legal | [Job Link](https://jobs.netflix.com/jobs/324465718) |
+| Netflix | Associate, Finance, Strategy & Analysis, Product | [Job Link](https://jobs.netflix.com/jobs/322903240) |
+| Netflix | Director, Business Development, Game Licensing | [Job Link](https://jobs.netflix.com/jobs/322726550) |
+| Netflix | Administrative Assistant, Enterprise Operations | [Job Link](https://jobs.netflix.com/jobs/323809245) |
 | Lyft | Access Control Coordinator  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7296743002?gh_jid=7296743002) |
 | Lyft | Analytics Lead, Electric Vehicles Policy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7254534002?gh_jid=7254534002) |
 | Lyft | Analytics Lead, Electric Vehicles Policy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7274284002?gh_jid=7274284002) |
 | Lyft | Analytics Lead, Market Insights | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7270953002?gh_jid=7270953002) |
 | Lyft | Anaplan Model Builder | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7313125002?gh_jid=7313125002) |
 | Lyft | Android Engineer, Rider Travel Team | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7274966002?gh_jid=7274966002) |
-| Lyft | Associate Counsel, Litigation & Risk  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7304548002?gh_jid=7304548002) |
 | Lyft | Associate Counsel, Litigation & Risk  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7304424002?gh_jid=7304424002) |
+| Lyft | Associate Counsel, Litigation & Risk  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7304548002?gh_jid=7304548002) |
 | Lyft | Backend Engineer | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7196123002?gh_jid=7196123002) |
 | Lyft | Chief of Staff, Marketing | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7316043002?gh_jid=7316043002) |
 | Lyft | Counsel, Product & Commercial (Healthcare) | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7098790002?gh_jid=7098790002) |
@@ -32,7 +28,6 @@
 | Lyft | Data Scientist, Algorithms - Growth | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7114026002?gh_jid=7114026002) |
 | Lyft | Data Scientist, Algorithms - Lyft Media  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7274132002?gh_jid=7274132002) |
 | Lyft | Data Scientist, Algorithms - Pricing | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7079709002?gh_jid=7079709002) |
-| Lyft | Data Scientist, Algorithms - Rider  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/6991169002?gh_jid=6991169002) |
 | Lyft | Data Scientist - Central Market Management  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7259618002?gh_jid=7259618002) |
 | Lyft | Data Scientist - Central Market Management, Lever Insights | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7256801002?gh_jid=7256801002) |
 | Lyft | Data Scientist, Decisions - Base Pricing | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7301318002?gh_jid=7301318002) |
@@ -53,11 +48,12 @@
 | Lyft | Firmware Engineer | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7316966002?gh_jid=7316966002) |
 | Lyft | Gestionnaire en Ingénierie - Infrastructure | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7070202002?gh_jid=7070202002) |
 | Lyft | Global Supply Manager | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7250770002?gh_jid=7250770002) |
-| Lyft | Group Product Manager I, Core Rider Experience | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7280512002?gh_jid=7280512002) |
 | Lyft | Group Product Manager I, Core Rider Experience | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7280503002?gh_jid=7280503002) |
 | Lyft | Group Product Manager I, Core Rider Experience | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7278677002?gh_jid=7278677002) |
+| Lyft | Group Product Manager I, Core Rider Experience | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7280512002?gh_jid=7280512002) |
 | Lyft | Hardware Manufacturing Test Engineer | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7213442002?gh_jid=7213442002) |
 | Lyft | Head of Diversity, Equity, Inclusion & Belonging | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7258523002?gh_jid=7258523002) |
+| Lyft | Head of Finance, TBS | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7333544002?gh_jid=7333544002) |
 | Lyft | Infrastructure Operations Engineer | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7070286002?gh_jid=7070286002) |
 | Lyft | Ingénieur d'essais de fabrication | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7214737002?gh_jid=7214737002) |
 | Lyft | Ingénieur(e) Backend  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7196126002?gh_jid=7196126002) |
@@ -65,10 +61,10 @@
 | Lyft | Local Communications Manager | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7106140002?gh_jid=7106140002) |
 | Lyft | Local Communications Manager | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7106364002?gh_jid=7106364002) |
 | Lyft | Manager, Recruiting Coordination | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7313351002?gh_jid=7313351002) |
-| Lyft | Operations Associate | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7319465002?gh_jid=7319465002) |
 | Lyft | Operations Associate | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7319897002?gh_jid=7319897002) |
-| Lyft | Operations Associate | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7319836002?gh_jid=7319836002) |
+| Lyft | Operations Associate | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7319465002?gh_jid=7319465002) |
 | Lyft | Operations Associate | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7319568002?gh_jid=7319568002) |
+| Lyft | Operations Associate | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7319836002?gh_jid=7319836002) |
 | Lyft | Operations Associate, Overnight | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7323609002?gh_jid=7323609002) |
 | Lyft | Operations Lead | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7262292002?gh_jid=7262292002) |
 | Lyft | Operations Support Analyst | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7326653002?gh_jid=7326653002) |
@@ -79,15 +75,15 @@
 | Lyft | Product Marketing Manager, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7087702002?gh_jid=7087702002) |
 | Lyft | Product Marketing Manager, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7087691002?gh_jid=7087691002) |
 | Lyft | Program Lead, Support Content | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7294934002?gh_jid=7294934002) |
-| Lyft | Program Manager, Support System Architecture  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7087651002?gh_jid=7087651002) |
 | Lyft | Program Manager, Support System Architecture  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7083363002?gh_jid=7083363002) |
+| Lyft | Program Manager, Support System Architecture  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7087651002?gh_jid=7087651002) |
 | Lyft | Public Policy Manager, Midwest | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7301397002?gh_jid=7301397002) |
 | Lyft | Quality Assurance Engineer | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7274724002?gh_jid=7274724002) |
 | Lyft | Recruiting - Scheduling Specialist | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7319142002?gh_jid=7319142002) |
 | Lyft | SCC Quality Specialist | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7329735002?gh_jid=7329735002) |
 | Lyft | Security Analyst, Incident Response | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7089912002?gh_jid=7089912002) |
-| Lyft | Senior Accountant | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7296279002?gh_jid=7296279002) |
 | Lyft | Senior Accountant | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7112155002?gh_jid=7112155002) |
+| Lyft | Senior Accountant | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7296279002?gh_jid=7296279002) |
 | Lyft | Senior Backend Software Engineer - All Teams | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7087106002?gh_jid=7087106002) |
 | Lyft | Senior Designer, Paid Social | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7205504002?gh_jid=7205504002) |
 | Lyft | Senior Director, New Partner Technology | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7256507002?gh_jid=7256507002) |
@@ -101,8 +97,8 @@
 | Lyft | Senior Quality Assurance Engineer - QA | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7308020002?gh_jid=7308020002) |
 | Lyft | Senior Revenue Accountant | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7284148002?gh_jid=7284148002) |
 | Lyft | Senior Software Engineer, Electrification  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7194230002?gh_jid=7194230002) |
-| Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7182787002?gh_jid=7182787002) |
 | Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7255413002?gh_jid=7255413002) |
+| Lyft | Senior Software Engineer, Forecasting and Real-Time Optimization Platform | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7182787002?gh_jid=7182787002) |
 | Lyft | Senior Software Engineer, Frontend | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7089310002?gh_jid=7089310002) |
 | Lyft | Senior Software Engineer, Fulfillment | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7088705002?gh_jid=7088705002) |
 | Lyft | Senior Software Engineer (Infrastructure) | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7221865002?gh_jid=7221865002) |
@@ -136,9 +132,9 @@
 | Lyft | Staff Software Engineer | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7265395002?gh_jid=7265395002) |
 | Lyft | Staff Software Engineer, Data Privacy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7046534002?gh_jid=7046534002) |
 | Lyft | Staff Software Engineer, Data Privacy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7029356002?gh_jid=7029356002) |
+| Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264324002?gh_jid=7264324002) |
 | Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7263711002?gh_jid=7263711002) |
 | Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264326002?gh_jid=7264326002) |
-| Lyft | Staff Software Engineer, Lyft Media | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7264324002?gh_jid=7264324002) |
 | Lyft | Staff Software Engineer, Observability | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7294930002?gh_jid=7294930002) |
 | Lyft | Staff Software Engineer, Rider | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7307434002?gh_jid=7307434002) |
 | Lyft | Tax Manager - Income Tax | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7313532002?gh_jid=7313532002) |
@@ -152,13 +148,13 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
 | Airbnb | Staff Software Engineer, Metrics Infrastructure | [Job Link](https://careers.airbnb.com/positions/5705340/) |
 | Airbnb | Staff Software Engineer,Network Infrastructure | [Job Link](https://careers.airbnb.com/positions/5702638/) |
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
 | Airbnb | Staff Software Engineer, CI/CD | [Job Link](https://careers.airbnb.com/positions/5718315/) |
-| Airbnb | Staff Mobile Software Engineer, Quality Engineering | [Job Link](https://careers.airbnb.com/positions/5609345/) |
 | Airbnb | Staff Software Engineer, Booking & Pricing | [Job Link](https://careers.airbnb.com/positions/5011395/) |
+| Airbnb | Staff Mobile Software Engineer, Quality Engineering | [Job Link](https://careers.airbnb.com/positions/5609345/) |
 | Cohere | Data Annotator - Full stack/Backend Developer (Contractor) | [Job Link](https://jobs.lever.co/cohere/0e9c5427-94ab-41a8-8dfb-21d61a86ba9e) |
 | Cohere | Software Engineer, Finetuning Infrastructure | [Job Link](https://jobs.lever.co/cohere/01900997-5583-487b-8fcf-39c326de1e40) |
 | Cohere | Full Stack Software Engineer, FDE | [Job Link](https://jobs.lever.co/cohere/32f855a1-363b-4c19-94ba-f25f492bad71) |
@@ -174,7 +170,7 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
 | Ramp | New Grad 2024 - Software Engineer - Backend  | [Job Link](https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb) |
 | Ramp | New Grad 2024 - Software Engineer - Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd) |
 | Ramp | Senior Software Engineer - Backend | [Job Link](https://jobs.ashbyhq.com/ramp/1e077eec-dcae-4be5-a446-b3dd089777c6) |
@@ -185,6 +181,7 @@
 | Ramp | Software Engineer - Backend  | [Job Link](https://jobs.ashbyhq.com/ramp/a7b5b128-c024-433a-b5d7-4e7b7ed7a49d) |
 | Ramp | Software Engineer - Forward Deployed | [Job Link](https://jobs.ashbyhq.com/ramp/49af05e6-c962-4a3c-867b-57a8ee5bbd53) |
 | Ramp | Software Engineer - Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce) |
+| Ramp | Software Engineer Internship - Backend | [Job Link](https://jobs.ashbyhq.com/ramp/16ebfcfc-467b-40e5-b23e-a4d95db05539) |
 | Ramp | Software Engineer Internship - Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/bbac1615-acf4-4d27-9100-47079ab35be5) |
 | Ramp | Software Engineer - iOS | [Job Link](https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f) |
 | Ramp | Staff Software Engineer - Backend | [Job Link](https://jobs.ashbyhq.com/ramp/6a5108f4-8605-4a67-9446-ea05f197694c) |
@@ -214,11 +211,9 @@
 | Splunk | Senior Software Engineer, Strategic Initiatives (US REMOTE) - 29582 | [Job Link](https://www.splunk.com//en_us/careers/jobs/senior-software-engineer-strategic-29582.html) |
 | Splunk | Sr Principal Software Engineer - Splunk SOAR (US Remote Available) - 29554 | [Job Link](https://www.splunk.com//en_us/careers/jobs/sr-principal-software-engineer-29554.html) |
 | Splunk | Principal Engineer-Backend Mission Control - 29178 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-engineerbackend-mission-control-29178.html) |
-| Splunk | Software Engineer, Frontend, Cloud License Reporting - 29671 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-frontend-cloud-29671.html) |
 | Splunk | Senior Software Engineer, Distributed Systems, Splunk Observability - 29617 | [Job Link](https://www.splunk.com//en_us/careers/jobs/senior-software-engineer-distributed-29617.html) |
 | Splunk | Sr. Software Engineer, Backend - Threat Intelligence Management - 29663 | [Job Link](https://www.splunk.com//en_us/careers/jobs/sr-software-engineer-backend-29663.html) |
 | Splunk | Full Stack Principal Software Engineer - 29205 | [Job Link](https://www.splunk.com//en_us/careers/jobs/full-stack-principal-software-29205.html) |
-| Splunk | Sr Software Engineer, Front-end Observability (US Remote Available) - 29529 | [Job Link](https://www.splunk.com//en_us/careers/jobs/sr-software-engineer-frontend-29529.html) |
 | Splunk | Senior Principal Software Engineer - SDLC Evolution - 29262 | [Job Link](https://www.splunk.com//en_us/careers/jobs/senior-principal-software-engineer-29262.html) |
 | Splunk | Software Engineer, Platform Security Team - 29257 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-platform-security-29257.html) |
 | Splunk | Software Engineer (L7 Traffic/Networking) (US Remote Available) - 29375 | [Job Link](https://www.splunk.com//en_us/careers/jobs/software-engineer-l7-trafficnetworking-29375.html) |
@@ -226,7 +221,6 @@
 | Splunk | Principal Software Engineer, Front-End, APM Observability - 29287 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-software-engineer-frontend-29287.html) |
 | Splunk | Principal Accessibility Software Engineer - 29504 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-accessibility-software-engineer-29504.html) |
 | Splunk | Principal Software Performance Engineer (Remote) - 28391 | [Job Link](https://www.splunk.com//en_us/careers/jobs/principal-software-performance-engineer-28391.html) |
-| Splunk | Engineering Manager, Software Development, Identity Solutions - 29455 | [Job Link](https://www.splunk.com//en_us/careers/jobs/engineering-manager-software-development-29455.html) |
 | Zello | Lead Full Stack Engineer | [Job Link](/careers/job?jid=92894c78-f432-434b-8a81-61962693e1e7) |
 | Zello | Staff Backend Engineer (Go) | [Job Link](/careers/job?jid=6eab3abc-34db-4eb0-8394-d43ac3413056) |
 | Zello | Staff Backend Engineer - Go (Remote) | [Job Link](/careers/job?jid=5250f33e-c58a-4f46-931a-f876fe7fc10c) |
