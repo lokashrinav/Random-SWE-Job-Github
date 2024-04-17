@@ -2,12 +2,10 @@
 
 | Company | Role | Link |
 | ------- | ---- | ---- |
-| Netflix | Administrative Assistant, Content and Business Products | [Job Link](https://jobs.netflix.com/jobs/325115084) |
-| Netflix | Senior Engineering Manager, Observability | [Job Link](https://jobs.netflix.com/jobs/324154170) |
-| Netflix | Executive Assistant, Corporate Legal | [Job Link](https://jobs.netflix.com/jobs/324465718) |
-| Netflix | Associate, Finance, Strategy & Analysis, Product | [Job Link](https://jobs.netflix.com/jobs/322903240) |
-| Netflix | Director, Business Development, Game Licensing | [Job Link](https://jobs.netflix.com/jobs/322726550) |
-| Netflix | Administrative Assistant, Enterprise Operations | [Job Link](https://jobs.netflix.com/jobs/323809245) |
+| Netflix | Director, Technical Merchandising | [Job Link](https://jobs.netflix.com/jobs/312272631) |
+| Netflix | Senior Researcher, Product Experience (Personalization & Member Experience) | [Job Link](https://jobs.netflix.com/jobs/307962096) |
+| Netflix | Coordinator, Distribution | [Job Link](https://jobs.netflix.com/jobs/309411794) |
+| Netflix | Senior Creative Designer, External Games | [Job Link](https://jobs.netflix.com/jobs/307929148) |
 | Lyft | Access Control Coordinator  | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7296743002?gh_jid=7296743002) |
 | Lyft | Analytics Lead, Electric Vehicles Policy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7254534002?gh_jid=7254534002) |
 | Lyft | Analytics Lead, Electric Vehicles Policy | [Job Link](https://app.careerpuck.com/job-board/lyft/job/7274284002?gh_jid=7274284002) |
@@ -148,9 +146,9 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
-| Airbnb | Staff Software Engineer, Metrics Infrastructure | [Job Link](https://careers.airbnb.com/positions/5705340/) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
 | Airbnb | Staff Software Engineer,Network Infrastructure | [Job Link](https://careers.airbnb.com/positions/5702638/) |
+| Airbnb | Staff Software Engineer, Metrics Infrastructure | [Job Link](https://careers.airbnb.com/positions/5705340/) |
 | Airbnb | Staff Software Engineer, Marketing Technology | [Job Link](https://careers.airbnb.com/positions/5465082/) |
 | Airbnb | Staff Software Engineer, CI/CD | [Job Link](https://careers.airbnb.com/positions/5718315/) |
 | Airbnb | Staff Software Engineer, Booking & Pricing | [Job Link](https://careers.airbnb.com/positions/5011395/) |
@@ -170,7 +168,7 @@
 | Dropbox | Senior Backend Product Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4142717) |
 | Dropbox | Senior Machine Learning Software Engineer | [Job Link](https://jobs.dropbox.com/listing/4800392) |
 | Dropbox | Senior Machine Learning Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/2957086) |
-| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663831) |
+| Dropbox | Staff Backend Software Engineer, New Initiatives | [Job Link](https://jobs.dropbox.com/listing/5663830) |
 | Ramp | New Grad 2024 - Software Engineer - Backend  | [Job Link](https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb) |
 | Ramp | New Grad 2024 - Software Engineer - Frontend | [Job Link](https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd) |
 | Ramp | Senior Software Engineer - Backend | [Job Link](https://jobs.ashbyhq.com/ramp/1e077eec-dcae-4be5-a446-b3dd089777c6) |
